@@ -1,5 +1,5 @@
 local github_user = "ayobanw"
-local repo_name = "kereta rm0"
+local repo_name = "kereta-rm0"
 local key_file = "keys.txt"
 local script_file = "BELI KERETA 0 GitHub.lua"
 
