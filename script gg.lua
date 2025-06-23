@@ -1,7 +1,7 @@
 local github_user = "ayobanw"
-local repo_name = "cpmspec"
+local repo_name = "kereta rm0"
 local key_file = "keys.txt"
-local script_file = "SCRIPT SPEC GitHub V4.9.2.lua"
+local script_file = "BELI KERETA 0 GitHub.lua"
 
 local key_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. key_file
 local script_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. script_file
